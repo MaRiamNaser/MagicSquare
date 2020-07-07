@@ -1,2 +1,2 @@
-# MagicSqure
-eva hackathon academy - entry challenge 2020
+# MagicSquare
+Eva hackathon academy - entry challenge 2020
